@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID", "CSharpSamples\SOLID.csproj", "{415FA131-4EFD-497C-85AA-78B9CCE201C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct", "StructAndClass\Struct.csproj", "{0EDD3E89-74B4-49CD-AE0C-106D9FA24690}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Struct", "StructAndClass\Struct.csproj", "{0EDD3E89-74B4-49CD-AE0C-106D9FA24690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{942A0647-D39F-4EC9-9C82-9822288E4090}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{0EDD3E89-74B4-49CD-AE0C-106D9FA24690}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EDD3E89-74B4-49CD-AE0C-106D9FA24690}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EDD3E89-74B4-49CD-AE0C-106D9FA24690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{942A0647-D39F-4EC9-9C82-9822288E4090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942A0647-D39F-4EC9-9C82-9822288E4090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942A0647-D39F-4EC9-9C82-9822288E4090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942A0647-D39F-4EC9-9C82-9822288E4090}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
