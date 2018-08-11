@@ -13,6 +13,6 @@ namespace Singleton
         }
 
         public static SingletonThreadSafe Instance => instance;
-    }
+    
     }
 }

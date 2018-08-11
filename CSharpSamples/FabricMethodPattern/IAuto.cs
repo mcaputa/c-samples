@@ -1,0 +1,13 @@
+﻿namespace FabricMethodPattern
+{
+    internal interface IAuto
+    {
+        string Name { get; }
+
+        void SetName(string name);
+
+        void TurnOn();
+
+        void TurnOff();
+    }
+}
