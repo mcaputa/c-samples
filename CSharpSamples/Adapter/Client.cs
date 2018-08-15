@@ -4,11 +4,10 @@ using System.Text;
 
 namespace Adapter
 {
-    internal class Client : IAdapter
+    internal class Client
     {
-        public void RunAdapteeMethod()
-        {
-            
+        public virtual void RunAdapteeMethod()
+        {            
         }
     }
 }
